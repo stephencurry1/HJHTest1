@@ -14,12 +14,7 @@ import java.util.ArrayList;
 public class Demo1 {
 
     public static void main(String[] args) {
-        //输出整数，二进制，数字开头0B
-        System.out.println(0B11);
-        System.out.println("八进制0开头：" + 016);
-        System.out.println("十六进制0X 开头：" + 0XE);
-        System.out.println("输出浮点数据：" + 5.0);
-
+        System.out.println("test git");
     }
 }
 
